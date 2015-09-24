@@ -1,0 +1,14 @@
+/Menghitung persamaan kuadra /
+/#include <stdio.h>
+main()
+{
+float a,b,c,x=0;
+a = 3f;
+b = 4f;
+c = 7f;
+printf(a*nilai_x^2+b*nilai_x+c=0)
+printf(x=(-b±√(b^2-4ac))/2a)
+printf("Diskriminan = %f\n",x1);
+Printf(Diskriminan =%f/n",x2);
+getch();
+}
